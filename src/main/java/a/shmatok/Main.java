@@ -6,6 +6,6 @@ package a.shmatok;
 public class Main {
     public static void main(String[] args) {
         System.out.print("Добрый вечер");
-        System.out.println("HelloOOOOOOOOOO");
+        System.out.println("HelloOOOOOOOOOO RRRRRRRRR");
     }
 }
